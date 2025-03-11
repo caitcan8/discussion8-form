@@ -68,3 +68,12 @@
   input[type="submit"]:hover {
    background-color:#FFD1D1;
   }
+  input[type="reset"] {
+    width: 100%;
+    padding: 10px;
+    background-color: var(--pink);
+    color:var(--grey);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
